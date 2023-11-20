@@ -69,37 +69,7 @@ const Advertisement = ({ fixed }: { fixed?: boolean }) => {
         background: 'rgb(33, 33, 33)',
       }
     : {}
-  return (
-    <Box sx={sx}>
-      <iframe
-        ref={iframeRef}
-        width={20}
-        height={0}
-        title="Preview"
-        src="https://preview.responsiveviewer.org/"
-        scrolling="no"
-        frameBorder="no"
-        id="bannerIframe"
-        onLoad={() => {
-          setIsLoaded(true)
-        }}
-      ></iframe>
-
-      {isAdsBlockerInstalled && (
-        <AdBlockerMessage>
-          <Chip
-            sx={{ mb: 1 }}
-            label="Ad Blocker Detected"
-            color="error"
-            size="small"
-          />
-          <br />
-          Support ResponsiveViewer's free updates and quality. Please understand
-          the importance of advertisements to keep ResponsiveViewer up to date.
-        </AdBlockerMessage>
-      )}
-    </Box>
-  )
+  return <Box sx={sx}></Box>
 }
 
 export default Advertisement

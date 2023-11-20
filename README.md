@@ -1,3 +1,16 @@
+# Nothing is apolitical
+
+This repository is a clone of https://github.com/skmail/responsive-viewer.
+It is a great piece of software that supports me a lot in my work.
+I am therefore indebted to the original author.
+However, I am not willing to support one-sided political statements.
+
+My great wish and prayer is that people in Israel and Palestine learn to respect each other.
+That they stop making life difficult for each other.
+That they free themselves from their history and approach each other to create a society in which the world can learn what peace means.
+
+# Terror is not a solution - no matter where, no matter by whom.
+
 # Responsive Viewer Chrome extension
 
 <img src="https://responsiveviewer.org/logo.png" alt="drawing" width="80"/>
